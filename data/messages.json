@@ -1,0 +1,16 @@
+{
+    "window_title": "Reinforce Game",
+    "welcome": "환영합니다",
+    "max_level_message": "이미 최고 단계입니다!",
+    "insufficient_balance": "잔액이 부족합니다!!",
+    "weapon_unlocked": "새로운 무기 잠금 해제!",
+    "reinforcement_success": "강화 성공!",
+    "reinforcement_failure": "강화 실패...",
+    "sale": "{weapon_name} 판매 성공",
+    "balance": "잔액: {balance:,}원",
+    "current_weapon": "현재 무기: {weapon_name}\n판매 가격: {sale_price:,}원",
+    "next_weapon": "다음 무기: {weapon_name}\n강화 비용: {reinforcement_cost:,}원\n강화 확률: {success_rate}%",
+    "max_level": "최고 단계입니다",
+    "reinforcement_button": "강화하기",
+    "sale_button": "판매하기"
+}

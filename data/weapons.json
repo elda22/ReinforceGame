@@ -1,0 +1,86 @@
+[
+    {
+        "weapon_name": "맨 손",
+        "reinforcement_cost": 0,
+        "sale_price": 0,
+        "success_rate": 100
+    },
+    {
+        "weapon_name": "뗀석기",
+        "reinforcement_cost": 0,
+        "sale_price": 100,
+        "success_rate": 98
+    },
+    {
+        "weapon_name": "간석기",
+        "reinforcement_cost": 80,
+        "sale_price": 200,
+        "success_rate": 95
+    },
+    {
+        "weapon_name": "돌 검",
+        "reinforcement_cost": 150,
+        "sale_price": 500,
+        "success_rate": 90
+    },
+    {
+        "weapon_name": "청동 검",
+        "reinforcement_cost": 250,
+        "sale_price": 1000,
+        "success_rate": 80
+    },
+    {
+        "weapon_name": "철 검",
+        "reinforcement_cost": 500,
+        "sale_price": 3000,
+        "success_rate": 68
+    },
+    {
+        "weapon_name": "금 검",
+        "reinforcement_cost": 1200,
+        "sale_price": 10000,
+        "success_rate": 52
+    },
+    {
+        "weapon_name": "다이아 검",
+        "reinforcement_cost": 3000,
+        "sale_price": 26000,
+        "success_rate": 45
+    },
+    {
+        "weapon_name": "루비 검",
+        "reinforcement_cost": 8000,
+        "sale_price": 100000,
+        "success_rate": 36
+    },
+    {
+        "weapon_name": "에메랄드 검",
+        "reinforcement_cost": 15000,
+        "sale_price": 200000,
+        "success_rate": 30
+    },
+    {
+        "weapon_name": "흑요석 검",
+        "reinforcement_cost": 30000,
+        "sale_price": 500000,
+        "success_rate": 25
+    },
+    {
+        "weapon_name": "비브라늄 검",
+        "reinforcement_cost": 60000,
+        "sale_price": 1000000,
+        "success_rate": 20
+    },
+    {
+        "weapon_name": "네더라이트 검",
+        "reinforcement_cost": 150000,
+        "sale_price": 30000000,
+        "success_rate": 15
+    },
+    {
+        "weapon_name": "기반암 검",
+        "reinforcement_cost": 400000,
+        "sale_price": 100000000,
+        "success_rate": 10
+    }
+]
